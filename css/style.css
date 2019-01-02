@@ -216,19 +216,19 @@ h3{
 	margin-left:-20px;
 }
 .webdesign-skill{
-	width:95%;
-}
-.html-skill{
 	width:90%;
 }
+.html-skill{
+	width:100%;
+}
 .bootstrap-skill{
-	width:83%;
+	width:85%;
 }
 .jQuery-skill{
 	width:76%;
 }
 .css-skill{
-	width:90%;
+	width:100%;
 }
 .Asp-skill{
 	width:50%;
